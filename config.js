@@ -1,7 +1,7 @@
 import { Sequelize } from 'sequelize';
 
 const sequelize = new Sequelize (
-    'apiv1',
+    'api_v1',
     'root',
     '',
     {
